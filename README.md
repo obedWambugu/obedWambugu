@@ -1,4 +1,4 @@
-# 🚀 Welcome to My GitHub! I'm @obedWambugu 👋
+# 🚀 Welcome to My GitHub! I'm Obed Wambugu 👋
 
 ## 🌟 About Me
 Hi there! I'm a passionate **robotics and automation enthusiast** who loves turning ideas into **real-world solutions**. I thrive on designing and building **smart, efficient, and innovative** systems that integrate mechanical and electronic components.
