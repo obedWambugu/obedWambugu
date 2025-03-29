@@ -26,8 +26,8 @@ I'm looking to team up on:
 
 ## 📫 Get in Touch!
 📌 **GitHub**: [@obedWambugu](https://github.com/obedWambugu)  
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 **Email**: [obedwambugu12@gmail.com](mailto:your.email@example.com)  
+💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/obed-wambugu-a74839229)  
 
 ## 🎉 Fun Fact
 Did you know? I'm currently working on a **Construction 3D Printing Robot** that could change the future of **automated building construction**! 🏗️✨
