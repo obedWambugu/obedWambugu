@@ -1,37 +1,11 @@
-# 🚀 Welcome to My GitHub! I'm Obed Wambugu 👋
+# 👋 Hi, I'm [Obed Wambugu]
 
-## 🌟 About Me
-Hi there! I'm a passionate **robotics and automation enthusiast** who loves turning ideas into **real-world solutions**. I thrive on designing and building **smart, efficient, and innovative** systems that integrate mechanical and electronic components.
+I'm a developer passionate about building modern web applications with clean, scalable code.
 
-## 🔥 My Interests
-💡 Robotics & Automation  
-⚙️ Embedded Systems & Microcontrollers  
-🛠️ Mechanical Design & Material Science  
-🖨️ 3D Printing & Manufacturing Technologies  
-🤖 AI & Path Planning for Robotics  
+### 💼 Tech Stack
+- **Frontend**: Angular, ReactJS, HTML, CSS, JavaScript  
+- **Backend**: Java (Spring Boot), Express.js  
 
-## 📚 Currently Exploring
-🚀 Advanced **robotic control & motion planning**  
-🔧 Optimizing **motor control** using Arduino & encoders  
-🏗️ **Material selection** for lightweight & strong robotic structures  
-🤖 UiPath for **RPA (Robotic Process Automation)**  
-💻 Java for **API development**  
+I enjoy crafting full-stack applications and continuously learning new tools that enhance performance and user experience.
 
-## 🤝 Let’s Collaborate!
-I'm looking to team up on:  
-✨ Robotics projects involving **motion control & automation**  
-🌍 Open-source **hardware & software** for industrial applications  
-🧠 AI-driven **optimization for robotic path planning**  
-🔌 **Arduino & embedded system** development  
-
-## 📫 Get in Touch!
-📌 **GitHub**: [@obedWambugu](https://github.com/obedWambugu)  
-📧 **Email**: [obedwambugu12@gmail.com](mailto:your.email@example.com)  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/obed-wambugu-a74839229)  
-
-## 🎉 Fun Fact
-Did you know? I'm currently working on a **Construction 3D Printing Robot** that could change the future of **automated building construction**! 🏗️✨
-
----
-Let's innovate together! Feel free to connect, collaborate, or just say hi! 😃
-
+> Let's connect and build something great!
