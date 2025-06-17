@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Obed Wambugu
 
 I'm a passionate full-stack developer and robotics enthusiast. I build modern, performant web applications and develop smart robotic systems.
 
@@ -10,7 +10,7 @@ I'm a passionate full-stack developer and robotics enthusiast. I build modern, p
 
 <table>
   <tr>
-    <td align="center" style="background-color:#dd1b16; color: white;"><b>Angular</b></td>
+    <td align="center" style="background-color:#dd1b16;"><b>Angular</b></td>
     <td align="center" style="background-color:#61dafb; color: black;"><b>ReactJS</b></td>
     <td align="center" style="background-color:#f7df1e; color: black;"><b>JavaScript</b></td>
     <td align="center" style="background-color:#264de4; color: white;"><b>HTML</b></td>
