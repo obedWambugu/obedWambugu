@@ -1,38 +1,31 @@
-# 👋 Hi, I'm Obed Wambugu
+# 👋 Hi, I'm [Obed Wambugu]
 
-I'm a passionate full-stack developer and robotics enthusiast. I build modern, performant web applications and develop smart robotic systems.
+I'm a passionate full-stack developer and robotics enthusiast. I build modern web applications and develop intelligent robotic systems.
 
 ---
 
 ### 💻 Tech Stack
 
-<div align="center">
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<table>
-  <tr>
-    <td align="center" style="background-color:#dd1b16;"><b>Angular</b></td>
-    <td align="center" style="background-color:#61dafb; color: black;"><b>ReactJS</b></td>
-    <td align="center" style="background-color:#f7df1e; color: black;"><b>JavaScript</b></td>
-    <td align="center" style="background-color:#264de4; color: white;"><b>HTML</b></td>
-    <td align="center" style="background-color:#2965f1; color: white;"><b>CSS</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#6db33f; color: white;"><b>Spring Boot</b></td>
-    <td align="center" style="background-color:#303030; color: white;"><b>Express.js</b></td>
-    <td align="center" style="background-color:#00599c; color: white;"><b>Java</b></td>
-    <td align="center" style="background-color:#f34b7d; color: white;"><b>Python</b></td>
-    <td align="center" style="background-color:#00599C; color: white;"><b>C++</b></td>
-  </tr>
-</table>
+**Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
 
-</div>
+**Other Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-### 🤖 Robotics & Embedded Systems
+### 🤖 Robotics
 
-I also explore the world of robotics — working with microcontrollers, real-time systems, and sensor integration using **C++** and **Python**. From motion control to automation, I enjoy bridging hardware with intelligent software.
+I also work with embedded systems and robotics — programming microcontrollers, building smart automation systems, and integrating sensors using **C++** and **Python**.
 
----
-
-> Let's build something innovative together.
+> Let's connect and create something impactful!
