@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Obed Wambugu]
 
 I'm a passionate full-stack developer and robotics enthusiast. I build modern web applications and develop intelligent robotic systems.
-
+Visit my [portfolio website]([https://obed-wambugu-portfolio.vercel.app/])
 ---
 
 ### 💻 Tech Stack
